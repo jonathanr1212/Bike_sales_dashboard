@@ -55,8 +55,8 @@ Each dashboard changed dynamically based on the column chosen in the slicer. As 
 
 ```
 ├── images
+├── README.md
 ├── bike_sales_dashboard
-├── bike_sales_data
-└── README.md
+└── bike_sales_data
 ```
 
